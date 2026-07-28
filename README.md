@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Shahin Quliyev
 
-### Backend Software Engineer | Node.js • TypeScript • Go
+### Backend Software Engineer | Node.js • TypeScript • Go • Python
+#### 🧩 Analytical Thinker & Problem Solver
 
 > *I enjoy solving challenging backend problems and designing scalable software architectures.  
 My primary focus is building reliable, secure and maintainable backend systems that power real-world applications.*
@@ -13,10 +14,12 @@ My primary focus is building reliable, secure and maintainable backend systems t
 
 ### 🚀 About Me
 
-💡 **Backend Engineer** passionate about software architecture, distributed systems, and cloud-native infrastructure. Although I'm capable of developing full-stack applications, backend engineering is where I create the most value.
+💡 **Backend Engineer & Problem Solver** passionate about software architecture, distributed systems, and cloud-native infrastructure. I thrive on breaking down complex engineering challenges and turning them into scalable, efficient systems. 
+
+Although I'm capable of developing full-stack applications, backend engineering and core system architecture are where I create the most value.
 
 **What I enjoy:**
-`🏗 Scalable Architecture` • `⚡ High-Performance APIs` • `📨 Event-Driven Systems` • `🔄 Microservices` • `☁ Cloud Native` • `🐳 Containerization` • `📈 Performance Optimization` • `🔐 Secure Auth`
+`🧩 Complex Problem Solving` • `🏗 Scalable Architecture` • `⚡ High-Performance APIs` • `📨 Event-Driven Systems` • `🔄 Microservices` • `☁ Cloud Native` • `🐳 Containerization` • `📈 Performance Optimization`
 
 ---
 
@@ -29,6 +32,7 @@ My primary focus is building reliable, secure and maintainable backend systems t
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -36,6 +40,7 @@ My primary focus is building reliable, secure and maintainable backend systems t
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
       <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
       <img src="https://img.shields.io/badge/OAuth2-3C4043?style=for-the-badge" />
@@ -84,7 +89,7 @@ My primary focus is building reliable, secure and maintainable backend systems t
 
 ### 🏗 Engineering Focus & Concepts
 
-`Software Architecture` • `Distributed Systems` • `Domain Driven Design (DDD)` • `CQRS` • `Repository Pattern` • `API Gateways` • `Caching Strategies` • `Logging & Observability` • `System Design` • `Secure APIs`
+`Problem Solving` • `Software Architecture` • `Distributed Systems` • `Domain Driven Design (DDD)` • `CQRS` • `Repository Pattern` • `API Gateways` • `Caching Strategies` • `System Design` • `Performance Optimization`
 
 ---
 
@@ -128,25 +133,12 @@ My primary focus is building reliable, secure and maintainable backend systems t
 ### 📈 Philosophy
 
 > *Good software is not only about writing code.  
-It is about designing systems that remain maintainable, scalable and reliable years after deployment.*
+It is about solving real-world problems and designing systems that remain maintainable, scalable, and reliable years after deployment.*
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<div align="center">
 
 ### 📫 Connect With Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your.email@example.com)
-[<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-000000?style=for-the-badge" />](#)
-
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/shahin-quliyev-43lrkd/))
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](sahin43g@gmail.com)
 </div>
