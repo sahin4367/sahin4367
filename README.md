@@ -5,8 +5,8 @@
 ### Backend Software Engineer | Node.js • TypeScript • Go • Python
 #### 🧩 Analytical Thinker & Problem Solver
 
-> *I enjoy solving challenging backend problems and designing scalable software architectures.  
-My primary focus is building reliable, secure and maintainable backend systems that power real-world applications.*
+> *I enjoy solving challenging backend problems and designing scalable software architectures.
+> My primary focus is building reliable, secure and maintainable backend systems that power real-world applications.*
 
 </div>
 
@@ -14,12 +14,28 @@ My primary focus is building reliable, secure and maintainable backend systems t
 
 ### 🚀 About Me
 
-💡 **Backend Engineer & Problem Solver** passionate about software architecture, distributed systems, and cloud-native infrastructure. I thrive on breaking down complex engineering challenges and turning them into scalable, efficient systems. 
+💡 **Backend Engineer & Problem Solver** passionate about software architecture, distributed systems, and cloud-native infrastructure. I enjoy breaking down complex engineering challenges and turning them into scalable, efficient systems.
 
 Although I'm capable of developing full-stack applications, backend engineering and core system architecture are where I create the most value.
 
 **What I enjoy:**
+
 `🧩 Complex Problem Solving` • `🏗 Scalable Architecture` • `⚡ High-Performance APIs` • `📨 Event-Driven Systems` • `🔄 Microservices` • `☁ Cloud Native` • `🐳 Containerization` • `📈 Performance Optimization`
+
+---
+
+### 🚀 Building
+
+**[ACCbaza](https://accbaza.com/)** — A digital marketplace for buying and selling social media, gaming, subscription and other digital accounts, with a focus on safer and more transparent transactions.
+
+**Platform features:**
+
+🔐 Escrow-protected transactions  
+🤖 AI-powered account valuation  
+📱 SMS & listing verification  
+🛡️ Admin moderation and transaction protection
+
+**Tech:** Next.js • TypeScript • Node.js • PostgreSQL • RabbitMQ • Docker
 
 ---
 
@@ -35,6 +51,7 @@ Although I'm capable of developing full-stack applications, backend engineering 
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td><b>Backend Frameworks</b></td>
     <td>
@@ -46,6 +63,7 @@ Although I'm capable of developing full-stack applications, backend engineering 
       <img src="https://img.shields.io/badge/OAuth2-3C4043?style=for-the-badge" />
     </td>
   </tr>
+
   <tr>
     <td><b>Databases & Cache</b></td>
     <td>
@@ -55,6 +73,7 @@ Although I'm capable of developing full-stack applications, backend engineering 
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td><b>Infrastructure & DevOps</b></td>
     <td>
@@ -66,6 +85,7 @@ Although I'm capable of developing full-stack applications, backend engineering 
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td><b>Observability & Tools</b></td>
     <td>
@@ -76,6 +96,7 @@ Although I'm capable of developing full-stack applications, backend engineering 
       <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
     </td>
   </tr>
+
   <tr>
     <td><b>Frontend Essentials</b></td>
     <td>
@@ -97,21 +118,59 @@ Although I'm capable of developing full-stack applications, backend engineering 
 
 <table>
   <tr>
+
     <td width="33%" valign="top">
-      <h3>ACCOUNTmarket</h3>
-      <p>Marketplace platform for buying and selling digital social media accounts.</p>
-      <p><b>Tech:</b> Node.js, TypeScript, PostgreSQL, Docker, RabbitMQ, Redis, Socket.IO</p>
+
+      <h3>ACCbaza</h3>
+
+      <p>
+        Digital marketplace for buying and selling social media,
+        gaming, subscription and other digital accounts.
+      </p>
+
+      <p>
+        <b>Tech:</b> Next.js, Node.js, TypeScript, PostgreSQL,
+        RabbitMQ, Docker, Redis, Socket.IO
+      </p>
+
+      <p>
+        <a href="https://accbaza.com/">🌐 Live Platform</a>
+      </p>
+
     </td>
+
     <td width="33%" valign="top">
+
       <h3>TaskFlow</h3>
-      <p>Enterprise task management platform featuring workspaces, RBAC, real-time updates and background jobs.</p>
-      <p><b>Tech:</b> Node.js, TypeScript, Docker, Background Workers, WebSockets</p>
+
+      <p>
+        Enterprise task management platform featuring workspaces,
+        RBAC, real-time updates and background jobs.
+      </p>
+
+      <p>
+        <b>Tech:</b> Node.js, TypeScript, Docker,
+        Background Workers, WebSockets
+      </p>
+
     </td>
+
     <td width="33%" valign="top">
+
       <h3>iTicket</h3>
-      <p>Modern event ticketing backend with QR ticketing, payment processing, booking system and email queues.</p>
-      <p><b>Tech:</b> Node.js, Express, Microservices Architecture, Queues, PostgreSQL</p>
+
+      <p>
+        Modern event ticketing backend with QR ticketing,
+        payment processing, booking system and email queues.
+      </p>
+
+      <p>
+        <b>Tech:</b> Node.js, Express, Microservices Architecture,
+        Queues, PostgreSQL
+      </p>
+
     </td>
+
   </tr>
 </table>
 
@@ -132,13 +191,34 @@ Although I'm capable of developing full-stack applications, backend engineering 
 
 ### 📈 Philosophy
 
-> *Good software is not only about writing code.  
-It is about solving real-world problems and designing systems that remain maintainable, scalable, and reliable years after deployment.*
+> *Good software is not only about writing code.*
+>
+> *It is about solving real-world problems and designing systems that remain maintainable, scalable, and reliable years after deployment.*
 
 ---
 
 ### 📫 Connect With Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/shahin-quliyev-43lrkd/))
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](sahin43g@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/shahin-quliyev-43lrkd/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:sahin43g@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://accbaza.com/">
+    <img src="https://img.shields.io/badge/ACCbaza-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Building systems. Solving problems. Creating products.
+
+**ACCbaza — [accbaza.com](https://accbaza.com/)**
+
 </div>
